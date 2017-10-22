@@ -1,0 +1,12 @@
+#+title: Sword Coast
+#+description: Sword Coast
+#+options: num:nil toc:nil
+
+
+#+ATTR_HTML: :target _blank
+[[http:/images/sword-coast.jpg][http:/images/sword-coast-small.jpg]]
+
+Den del av Faerûn som RP befinner sig i. Domineras av stadsstater som olika effektivt styr
+regionen kring sig.
+
+Städerna är civiliserade men vildmarken kring är oftast otämjd och ofta farlig.

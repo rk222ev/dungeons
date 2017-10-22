@@ -1,0 +1,11 @@
+#+title: Neverwinter
+#+description: Neverwinter
+#+tags: sometag
+#+options: num:nil toc:nil
+
+[[http:/images/neverwinter-region.jpg]]
+
+Den stadsstat som ligger närmast den region där RP befinner sig.
+
+Den plats där RP först träffade på Gundren Rockseeker och den startpunkt som den
+sändning av proviant RP reste med utgick ifrån.

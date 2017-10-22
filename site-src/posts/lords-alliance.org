@@ -1,0 +1,25 @@
+#+title: Lords Alliance
+#+description: Faction
+#+tags: sometag
+#+options: num:nil toc:nil
+
+[[http:/images/lords-alliance.png]]
+
+“Threats to home must be terminated without prejudice. Fight for the security and glory of your people!”
+
+
+The Lords’ Alliance is a coalition of rulers from cities and towns across Faerûn
+(primarily in the North), who collectively agree that some solidarity is needed to keep evil at bay.
+The rulers of Waterdeep, Silverymoon, Neverwinter, and other free cities in the region dominate the Alliance,
+and every lord in the Alliance works for the fate and fortune of his or her own settlement above all others.
+
+** Beliefs
+
+- If civilization is to survive, all must unite against the dark forces that threaten it.
+- Glory comes from protecting one’s home and honoring its leaders.
+- The best defense is a strong offense.
+
+** Goals
+To ensure the safety and prosperity of the cities and other settlements of Faerûn by forming a strong coalition
+against the forces that threaten all, eliminate such threats by any means necessary whenever and wherever they
+arise, and be champions of the people.

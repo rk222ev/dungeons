@@ -1,0 +1,14 @@
+#+title: Lionshield Coster
+#+description: Neverwinter
+#+tags: sometag
+#+options: num:nil toc:nil
+
+[[http:/images/lionshield-coster.png]]
+
+The Lionshield Coster is a merchant company based in the fortified city of Yartar.
+The Lionshields' symbol is a blue lion painted on a wooden shield.
+
+The merchant company ships finished goods, such as supplies of armor and weapons,
+to small settlements and towns all throughout the northwestern region of Faerûn.
+One such settlement is the newly settled frontier town of Phandalin near the
+Triboar Trail and the Sword Mountains, however the outpost was hit hard by banditry.

@@ -1,0 +1,49 @@
+#+title: Phandalin
+#+description: Phandalin
+#+tags: sometag
+#+options: num:nil toc:1
+
+[[http:/images/phandalin.jpg]]
+
+
+** Grista
+:PROPERTIES:
+:CUSTOM_ID: Grista
+:END:
+
+Dvärgkvinna
+
+Ägare och den person som driver ölhuset "Sovande jätten".
+
+Överlevde när RP attackerade vakterna från Redbrands genom att låsa in sig i sitt rum.
+Hjälpte sedan RP genom att ställa ut en öltunna på verandan för att signalera till
+spelarna att de säkert kunde närma sig Trasendar Manor.
+
+*** Övrigt:
+Har en "mystisk" låda under sin säng.
+
+** Redbrands
+:PROPERTIES:
+:CUSTOM_ID: Redbrands
+:END:
+
+Gäng som terroriserat Phandalin med sin bas under Trasendar Manor. Mördat Sonsas far och kidnappade
+hennes mor och två systrar.
+
+Deras ledare tycks gå under benämningen "Glasstaff".
+
+** Sildar Hallwinter
+:PROPERTIES:
+:CUSTOM_ID: sildar-hallwinter
+:END:
+
+Man i 50års åldern. Van att ge order. Nobel till sitt sätt.
+Är tillsammans med Gundren Rockseeker en av dom som hyrt RP för att skydda vagnen med
+förnödenheter med Phandalin som destination.
+
+Räddades från Cragmaw hideout utav RP.
+
+Har satt upp sitt kontor i Statshuset i Phandalin.
+Representant för Lords Alliance i Phandalin.
+
+Strävar efter att bringa civilisation och ordning till Phandalin.
